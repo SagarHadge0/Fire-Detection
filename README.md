@@ -1,13 +1,13 @@
 # Fire Detection
-## This project is designed to detect fire in images and videos using the YOLO v5 object detection model, developed on Google Colab.
+### This project is designed to detect fire in images and videos using the YOLO v5 object detection model, developed on Google Colab.
 
 # Project Overview
-## The Fire Detection project utilizes YOLO v5, a state-of-the-art object detection model, to accurately and efficiently identify fire instances in visual data. The goal of this project is to assist in early fire ## detection by analyzing images or video feeds, which could be critical for safety measures in high-risk environments.
+### The Fire Detection project utilizes YOLO v5, a state-of-the-art object detection model, to accurately and efficiently identify fire instances in visual data. The goal of this project is to assist in early fire ### detection by analyzing images or video feeds, which could be critical for safety measures in high-risk environments.
 
 # Features
-## Fire Detection: Detects fire in images and video streams using YOLO v5.
-## Real-Time Processing: Processes video feeds in real-time for immediate detection.
-## API Integration: Utilizes APIs for data input/output, enhancing accessibility and functionality
+### Fire Detection: Detects fire in images and video streams using YOLO v5.
+### Real-Time Processing: Processes video feeds in real-time for immediate detection.
+### API Integration: Utilizes APIs for data input/output, enhancing accessibility and functionality
 
 # Tech Stack
 ## Google Colab: Development environment.
